@@ -32,7 +32,8 @@
 * **residential, unclassified, service, minor** - городские дороги
 * **track, path** - грунтовые дороги
 * **_reverse** - движение "против шерсти" по дороге с односторонним движением
-Подробнее здесь: https://wiki.openstreetmap.org/wiki/Key:highway#Values
+
+Подробнее о тэгах здесь: https://wiki.openstreetmap.org/wiki/Key:highway#Values
 
 ## Ссылки
 - https://github.com/DK22Pac/plugin-sdk

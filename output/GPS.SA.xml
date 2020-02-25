@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<Color r="0" g="32" b="218" a="255" width="8" />
+<Costs motorway="1.00999999" tertiary="1.24000001" residential="1.80999994" track="3.74000001" path="3.74000001" _reverse="227" trunk="1.5" primary="2" secondary="4" minor="125" service="30" unclassified="15" />
